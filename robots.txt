@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://balu1705.github.io/tech-blog/sitemap.xml
+
+# Crawl-delay for polite crawling
+Crawl-delay: 10
+
+# Disallow admin/private paths (none in static site)
+# Disallow: /assets/
